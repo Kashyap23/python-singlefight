@@ -1,2 +1,2 @@
 # python-singlefight
-Python implementation of singleflight used in Solang
+Python implementation of singleflight used in Golang
